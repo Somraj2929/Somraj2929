@@ -70,7 +70,7 @@
   <br/>
  <p align="center">
   
-<img align="left" width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=somraj2929&show_icons=true&locale=en&layout=compact&theme=algolia" alt="somraj2929" />
+<img align="center" width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=somraj2929&show_icons=true&locale=en&layout=compact&theme=algolia" alt="somraj2929" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=somraj2929&show_icons=true&locale=en&theme=algolia" alt="somraj2929" />
  </p>
