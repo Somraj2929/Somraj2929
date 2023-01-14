@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Web API Handling**
 
-- 🌱 I’m currently learning **Golang, ReatJS, Data Structure.**
+- 🌱 I’m currently learning **Golang, ReactJS, Data Structure.**
 
 - 👯 I’m looking to collaborate on **Full Stack, Web Design Projects.**
 
