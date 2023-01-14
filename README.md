@@ -13,9 +13,9 @@
   <img align="right" alt="Coder" width="400" src="https://gist.github.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
  </p>
 
-- 🔭 I’m currently working on **Airbnb React Clone.**
+- 🔭 I’m currently working on **Web API Handling**
 
-- 🌱 I’m currently learning **NodeJS, Data Structure.**
+- 🌱 I’m currently learning **Golang, ReatJS, Data Structure.**
 
 - 👯 I’m looking to collaborate on **Full Stack, Web Design Projects.**
 
@@ -23,7 +23,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@somrajbishnoirock29](https://medium.com/@somrajbishnoirock29)
 
-- 💬 Ask me about **Figma, UI/UX, Frontend Design.**
+- 💬 Ask me about **Figma, UI/UX, Frontend Design, Golang, DSA**
 
 - 📫 How to reach me **somrajbishnoirock29@gmail.com**
 
