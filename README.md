@@ -70,16 +70,16 @@
   <br/>
  <p align="center">
   
-<img align="center" width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=somraj2929&show_icons=true&locale=en&layout=compact&theme=algolia" alt="somraj2929" />
+<img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=somraj2929&show_icons=true&layout=compact&theme=algolia" alt="somraj2929"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=somraj2929&show_icons=true&locale=en&theme=algolia" alt="somraj2929" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somraj2929&show_icons=true&layout=compact&locale=en&theme=algolia" alt="somraj2929" />
  </p>
  
 ----
 
 <summary><b>⚡ Recent GitHub Activity</b></summary>
 <br/>
-   <a href="https://github.com/somraj2929"><img alt="Somraj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=somraj2929&custom_title=Somraj's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/somraj2929"><img alt="Somraj's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=somraj2929&custom_title=Somraj's%20%20Graph&hide_border=true&theme=react-dark" /></a>
   <br/>
 
 <br/>
