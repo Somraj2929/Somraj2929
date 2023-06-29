@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Somraj</h1>
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com/demo/"><img src="https://readme-typing-svg.herokuapp.com?font=Merienda&weight=600&color=16D60DFF&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Passionate+DevOps+Engineer;Web+%26+Developer;From+Jodhpur%2C+India&center=true&width=500&height=50"></a>
+  <a href="https://readme-typing-svg.herokuapp.com/demo/"><img src="https://readme-typing-svg.herokuapp.com?font=Merienda&weight=600&color=16D60DFF&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Passionate+DevOps+Engineer;Web+Developer+%26+Designer;From+Jodhpur%2C+India&center=true&width=500&height=50"></a>
 </p>
 
 ----
