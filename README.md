@@ -13,17 +13,17 @@
   <img align="right" alt="Coder" width="400" src="https://gist.github.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
  </p>
 
-- 🔭 I’m currently working on **Web API Handling**
+- 🔭 I’m currently working on **Web, DevOps**
 
-- 🌱 I’m currently learning **Golang, ReactJS, Data Structure.**
+- 🌱 I’m currently learning **Golang, ReactJS, Cyber Security**
 
-- 👯 I’m looking to collaborate on **Full Stack, Web Design Projects.**
+- 👯 I’m looking to collaborate on **DevOps, Open Source**
 
-- 🤝 I’m looking for help with **Algorithms.**
+- 🤝 I’m looking for help with **Security Analysis.**
 
-- 📝 I regularly write articles on [https://medium.com/@somrajbishnoirock29](https://medium.com/@somrajbishnoirock29)
+- 📝 I regularly write articles on [Medium](https://medium.com/@somrajbishnoirock29) (will Update)
 
-- 💬 Ask me about **Figma, UI/UX, Frontend Design, Golang, DSA**
+- 💬 Ask me about **UI/UX, Web, Golang, DevOps**
 
 - 📫 How to reach me **somrajbishnoirock29@gmail.com**
 
@@ -79,7 +79,7 @@
 
 <summary><b>⚡ Recent GitHub Activity</b></summary>
 <br/>
-   <a href="https://github.com/somraj2929"><img alt="Somraj's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=somraj2929&custom_title=Somraj's%20%20Graph&hide_border=true&theme=react-dark" /></a>
+   <a href="https://github.com/somraj2929"><img alt="Somraj's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=somraj2929&custom_title=Somraj's%20%20Graph&hide_border=true&theme=react-dark" /></a>
   <br/>
 
 <br/>
