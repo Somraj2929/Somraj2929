@@ -13,7 +13,7 @@
   <img align="right" alt="Coder" width="400" src="https://gist.github.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
  </p>
 
-- 🔭 I’m currently working on **Web, DevOps**
+- 🔭 I’m currently working on **DevOps**
 
 - 🌱 I’m currently learning **Golang, ReactJS, Cyber Security**
 
@@ -23,7 +23,7 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@somrajbishnoirock29) (will Update)
 
-- 💬 Ask me about **UI/UX, Web, Golang, DevOps**
+- 💬 Ask me about **Web, Golang, DevOps**
 
 - 📫 How to reach me **somrajbishnoirock29@gmail.com**
 
